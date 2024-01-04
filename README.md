@@ -1,6 +1,6 @@
 # PGS-codingtest
-![Algorithm- swift](https://github.com/danieiOS/PGS-codingtest/assets/133854543/61ef290e-647f-43f5-8f73-8b2623c13e96)   
-Solving programmers algorithm problems with Swift
+![Algorithm- swift](https://github.com/danieiOS/PGS-codingtest/assets/133854543/61ef290e-647f-43f5-8f73-8b2623c13e96)      
+💡 Solving programmers algorithm problems with Swift
 ### Day 1
 - 두 수의 합
 - 두 수의 차
