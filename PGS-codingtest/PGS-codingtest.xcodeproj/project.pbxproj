@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		967639DE2B4688D0001AE1F6 /* Day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day1.swift; sourceTree = "<group>"; };
+		967639E12B468B5A001AE1F6 /* Day2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day2.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		967639D72B4688B9001AE1F6 = {
+			isa = PBXGroup;
+			children = (
+				967639DF2B46897B001AE1F6 /* PGS */,
+			);
+			sourceTree = "<group>";
+		};
+		967639DF2B46897B001AE1F6 /* PGS */ = {
+			isa = PBXGroup;
+			children = (
+				967639E02B468987001AE1F6 /* LV_0 */,
+			);
+			path = PGS;
+			sourceTree = "<group>";
+		};
+		967639E02B468987001AE1F6 /* LV_0 */ = {
+			isa = PBXGroup;
+			children = (
+				967639DE2B4688D0001AE1F6 /* Day1.swift */,
+				967639E12B468B5A001AE1F6 /* Day2.swift */,
+			);
+			path = LV_0;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		967639D82B4688B9001AE1F6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 967639DB2B4688B9001AE1F6 /* Build configuration list for PBXProject "PGS-codingtest" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 967639D72B4688B9001AE1F6;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		967639DC2B4688B9001AE1F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		967639DD2B4688B9001AE1F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		967639DB2B4688B9001AE1F6 /* Build configuration list for PBXProject "PGS-codingtest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				967639DC2B4688B9001AE1F6 /* Debug */,
+				967639DD2B4688B9001AE1F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 967639D82B4688B9001AE1F6 /* Project object */;
+}
